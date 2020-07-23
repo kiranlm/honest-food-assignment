@@ -3,4 +3,4 @@
 Honest food API
 
 > /search
-> param: {address:"<address string>"}
+> param:`{address:"<address string>"}`
